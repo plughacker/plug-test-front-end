@@ -1,45 +1,13 @@
-# Plug Pagamentos | Front-end Teste
+# Plug Pagamentos | Teste Front-end
 
-## O que há nesse template?
+Este repositório contempla todas as informações referentes ao processo de contratação de front-end da Plug. 🚀
 
-- [ReactJS](https://reactjs.org)
-- [Vite](https://vitejs.dev)
-- [TypeScript](https://www.typescriptlang.org)
-- [Jest](https://jestjs.io)
-- [Testing Library](https://testing-library.com)
-- [Polyfills](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy#readme)
+## Sumário
 
-## Como rodar
+- [Como rodar o projeto](https://github.com/plughacker/plug-test-front-end/blob/main/APP.md)
+- [Informações sobre o desafio](https://github.com/plughacker/plug-test-front-end/blob/main/CHALLENGE.md)
 
-1. Instale as deps
+## Dúvidas
 
-```bash
-  yarn
-```
-
-2. Dev server com hot reload na http://localhost:3000.
-
-```bash
-yarn dev
-```
-
-## Comandos de testes
-
-- Roda todos os testes
-  ```bash
-  yarn test
-  ```
-- Roda unit tests com watch
-  ```bash
-  yarn test:unit
-  ```
-- Roda unit tests com coverage
-  ```bash
-  yarn test:unit:coverage
-  ```
-
-## Comando de build
-
-```bash
-yarn build
-```
+Qualquer dúvida sobre o processo seletivo pode ser enviada para o e-mail em que o teste foi encaminhado. Você também pode conferir nas issues do repositório se alguém já tirou sua dúvida
+ou sinta-se a vontade para abrir a sua! 😁
