@@ -1,4 +1,4 @@
-# Como Rodar o Projeto
+# Como rodar o projeto
 
 Aqui é possível ver todas as informações iniciais sobre o template do teste, desde as dependências configuradas inicialmente e os comandos
 importantes para rodar, buildar e testar o projeto.

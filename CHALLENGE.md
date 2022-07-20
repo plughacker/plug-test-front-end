@@ -1,4 +1,4 @@
-# Informações Sobre o Teste
+# Informações sobre o desafio
 
 Aqui é possível ver todas as informações referentes ao desafio técnico, desde específicações dos requisitos e layout
 que devem ser desenvolvidos. Leia com atenção até o final e qualquer dúvida é só entrar em contato com nós 😁
@@ -13,11 +13,11 @@ O desafio é o mesmo para Júnior, Pleno e Senior. A avaliação do mesmo é fei
 
 O desafio consiste em criar interfaces que possibilitem o usuário criar uma lista de tarefas, além de permitir que ele possa visualizar uma lista dessas tarefas separadas em "To Do" e "Done".
 
-Disponibilizamos o design da interface através do Figma, [nesse link](). Através dele você poderá encontrar as definições de estilo como: formas, cores, tamanhos e fontes. Além de conseguir rodar o protótipo navegável e entender o fluxo esperado.
+Disponibilizamos o design da interface através do Figma, [nesse link](https://www.figma.com/file/vCnePLYItUV1IyNwKr3gcv/Front-end-Challenge?node-id=0%3A1). Através dele você poderá encontrar as definições de estilo como: formas, cores, tamanhos e fontes. Além de conseguir rodar o protótipo navegável e entender o fluxo esperado.
 
 Todos os assets podem ser exportados através do próprio Figma, a iconografia pode ser usada alguma ao qual você tem familiriadade ou preferência.
 
-## Requisitos Gerais
+## Requisitos gerais
 
 Informações sobre o que esperamos que o projeto do desafio contemple e a específicação de cada funcionalidade.
 
@@ -29,7 +29,7 @@ Informações sobre o que esperamos que o projeto do desafio contemple e a espec
 - A interface deverá ser responsiva e respeitar o design proposto;
 - Atender requisitos de semântica e acessibilidade;
 
-### Funcionalidades do Desafio
+### Funcionalidades do desafio
 
 Descrição geral sobre o que é esperado de cada funcionalidade.
 
@@ -41,15 +41,15 @@ Descrição geral sobre o que é esperado de cada funcionalidade.
 
 - Listagem das tarefas dividida em 2 colunas, na esquerda uma coluna com as tarefas pendentes e com o título de "To Do" e a direita as tarefas concluídas e com o título de "Done";
 - Listagem corretamente das tarefas em suas respectivas colunas;
-- Botão "Nova Tarefa" abrirá um modal na mesma página com o formulário de criação de uma nova tarefa.
+- Float Action Button (FAB) "Novo" abrirá uma sidebar na mesma página com o formulário de criação de uma nova tarefa.
 
-#### Modal de Criação de uma Nova Tarefa
+#### Sidebar de Criação de uma Nova Tarefa
 
-- Modal renderizando o formulário e com um botão de fechar;
+- Sidebar renderizando o formulário e com um botão de fechar;
 - Formulário com os campos: Título, Descrição e Done;
-- O formulário deve conter as seguinte validações: Título é um campo obrigatório, Descrição é um campo opcional e Done por padrão é um checkbox iniciado em falso;
+- O formulário deve conter as seguinte validações: Título é um campo obrigatório, Descrição é um campo opcional e Done por padrão é um switch iniciado em falso;
 - O botão de "Criar Tarefa" só poderá estar habilitado quando o formulário tiver passado pelas validações;
-- Ao sucesso da criação da nova tarefa, o formulário deverá ser resetado, fechado e a nova tarefa deve estar refletida na listagem de tarefas na sua respectiva coluna.
+- Ao sucesso da criação da nova tarefa, o formulário deverá ser resetado, fechado e a nova tarefa deve estar refletida na listagem de tarefas na sua respectiva coluna, junto de um toast com uma mensagem de sucesso.
 
 ## API
 

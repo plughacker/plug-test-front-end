@@ -1,4 +1,4 @@
-# Plug Pagamentos | Teste Front-end
+# Plug Pagamentos | Desafio Front-end
 
 Este repositório contempla todas as informações referentes ao processo de contratação de front-end da Plug. 🚀
 
