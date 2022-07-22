@@ -114,7 +114,7 @@ Body:
 - Separação dos conceitos e responsabilidades;
 - Interface componentizável;
 - Atenção aos detalhes;
-- Testes automizatizados.
+- Testes automatizados.
 
 ## O que seria legal de ver mas não é obrigatório
 
